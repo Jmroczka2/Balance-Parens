@@ -1,0 +1,1 @@
+Given a string with alphanumeric characters and parentheses, write a function that takes the string and returns a string with balanced parentheses by removing the fewest characters possible. Note that you cannot add anything to the string.
